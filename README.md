@@ -4,3 +4,4 @@
 - Player moves the turtle by pressing the “up” arrow key
 - If turtle collides with a car the game is over
 - If turtle successfully crosses the intersection the level increases as well as the car speed. The turtle also returns back to the bottom of the screen.
+- Used OOP with inheritance to create a class for the player(turtle), cars, and the scoreboard.
